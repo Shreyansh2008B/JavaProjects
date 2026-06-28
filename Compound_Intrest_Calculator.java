@@ -35,7 +35,7 @@ public class Compound_Intrest_Calculator {
        }
        int Compound_type = s.nextInt();
        double final_amount = CompundIntreset(principal,rate,Compound_type,time);
-       System.out.println(final_amount) ;
+       System.out.println("Your Total Amount generated In " + time + " Years is: " + final_amount);
 
        
        
