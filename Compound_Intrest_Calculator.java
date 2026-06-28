@@ -23,7 +23,7 @@ public class public class Compound_Intrest_Calculator {
        System.out.println("Enter principal Amount: ");
        double principal  = s.nextDouble();
 
-       System.out.println("Enter Rate(1-10)%: ");
+       System.out.println("Enter Rate(%): ");
        double rate  = s.nextDouble();
 
        System.out.println("Enter Time(in Years): ");
