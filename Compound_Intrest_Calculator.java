@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 
 
-public class MirroredPattern {
+public class public class Compound_Intrest_Calculator {
+ {
 
     
     static public List<String> compound_options = List.of("Anually","semi-Anually","Quarterly","Monthly","Daily");
